@@ -1,0 +1,5 @@
+﻿  Calculator.cpp
+  Scientific.cpp
+C:\Users\Максим\Desktop\Calculator\Calculator\Scientific.cpp(341,15): warning C4101: 'b': unreferenced local variable
+  Generating Code...
+  Calculator.vcxproj -> C:\Users\Максим\Desktop\Calculator\x64\Debug\Calculator.exe
